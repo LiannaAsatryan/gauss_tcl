@@ -4,11 +4,14 @@
 #files
  in this directory there are following files
 * input.txt __ it is the file where our matrix example is written like this
+
 	        size
-		________
+		
+	        ________
                |       |
                |matrix |
                |_______|
+
 
 * golden.txt __ it is the file where our correct answer is located
 * gauss_functions.tcl __ this file contains the functions which solve our main problem (gauss_ forward, gauss_backward, gauss and other related functions) 
