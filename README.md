@@ -7,7 +7,7 @@
 
 	        size
 		
-	        ________
+	       ________
                |       |
                |matrix |
                |_______|
@@ -34,11 +34,16 @@ NOTE: in my output and golden files the solutions are written in 4 precision
 
 #to run the main program type in command line
  tclsh main.tcl
+ 
 to clean the generated files type 
+
  rm output.txt
 
 
 #to run the test type in command line
+
  tclsh gauss_test.tcl
-to clean the generated files type 
+ 
+#to clean the generated files type
+
  rm output.txt result.txt
